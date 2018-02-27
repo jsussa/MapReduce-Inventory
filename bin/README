@@ -1,0 +1,19 @@
+
+This project uses JSON parser library: "json-simple-1.1.1.jar"
+
+To run on Mac Terminal 
+	1.'cd' into the src file:
+		For example: cd Documents/workspace/MapReduce/src
+
+	2. Then compile the code:
+		javac -cp json-simple-1.1.1.jar: MapReduce.java
+		
+	3. Run the code:
+		java -cp json-simple-1.1.1.jar: MapReduce
+		
+		or
+		
+		java -cp json-simple-1.1.1.jar: MapReduce x
+			- the x could be a number within 1-5, it is the number of files you want to read
+
+

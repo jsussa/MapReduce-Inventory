@@ -1,0 +1,24 @@
+[  
+    {  
+        "pub_id":"7",
+        "inv_total":2456,
+        "comments":[  
+            "Great quality"
+        ]
+    }, 
+    {
+    "pub_id":"4",
+        "inv_total":9764,
+        "comments":[  
+            "good comment"
+        ]
+	},
+	{
+	"pub_id":"8",
+        "inv_total":4373,
+        "comments":[  
+            "yes comment",
+            "no comment"
+        ]
+	}
+]

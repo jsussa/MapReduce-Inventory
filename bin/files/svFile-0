@@ -1,0 +1,26 @@
+[  
+    {  
+        "pub_id":"1",
+        "inv_total":1093,
+        "comments":[  
+            "Awesome!",
+            "Great!"
+        ]
+    }, 
+    {
+    "pub_id":"2",
+        "inv_total":5363,
+        "comments":[  
+            "Could be better...",
+            "Not bad!"
+        ]
+	},
+	{
+	"pub_id":"3",
+        "inv_total":1735,
+        "comments":[  
+            "Looks good!",
+            "hate it!"
+        ]
+	}
+]
